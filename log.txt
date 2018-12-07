@@ -1,0 +1,2134 @@
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Module execution: 802ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Interceptors creation: 514ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: TypeListeners & ProvisionListener creation: 15ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Scopes creation: 110ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Converters creation: 1ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Binding creation: 17ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Module annotated method scanners creation: 2ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Private environment creation: 2ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Injector construction: 1ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Binding initialization: 2ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Binding indexing: 1ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Collecting injection requests: 1ms
+нояб. 14, 2018 1:33:19 ДП com.google.inject.internal.BytecodeGen newFastClassForMember
+FINE: Loading class org.telegram.telegrambots.updatesreceivers.DefaultWebhook FastClass with jdk.internal.loader.ClassLoaders$AppClassLoader@5fa7e7ff
+нояб. 14, 2018 1:33:20 ДП com.google.inject.internal.BytecodeGen newFastClassForMember
+FINE: Loading class org.telegram.telegrambots.updatesreceivers.DefaultBotSession FastClass with jdk.internal.loader.ClassLoaders$AppClassLoader@5fa7e7ff
+нояб. 14, 2018 1:33:20 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Binding validation: 271ms
+нояб. 14, 2018 1:33:20 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Static validation: 1ms
+нояб. 14, 2018 1:33:20 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Instance member validation: 1ms
+нояб. 14, 2018 1:33:20 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Provider verification: 4ms
+нояб. 14, 2018 1:33:20 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Static member injection: 1ms
+нояб. 14, 2018 1:33:20 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Instance injection: 1ms
+нояб. 14, 2018 1:33:20 ДП com.google.inject.internal.util.Stopwatch resetAndLog
+FINE: Preloading singletons: 17ms
+нояб. 14, 2018 1:33:20 ДП com.google.inject.internal.BytecodeGen newFastClassForMember
+FINE: Loading class org.telegram.telegrambots.bots.DefaultBotOptions FastClass with jdk.internal.loader.ClassLoaders$AppClassLoader@5fa7e7ff
+нояб. 14, 2018 1:33:25 ДП org.jboss.logging.LoggerProviders logProvider
+DEBUG: Logging Provider: org.jboss.logging.JDKLoggerProvider
+нояб. 14, 2018 1:33:25 ДП org.hibernate.integrator.internal.IntegratorServiceImpl addIntegrator
+DEBUG: Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].
+нояб. 14, 2018 1:33:25 ДП org.hibernate.integrator.internal.IntegratorServiceImpl addIntegrator
+DEBUG: Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].
+нояб. 14, 2018 1:33:25 ДП org.hibernate.integrator.internal.IntegratorServiceImpl addIntegrator
+DEBUG: Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Cache71] -> [org.hibernate.dialect.Cache71Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [CUBRID] -> [org.hibernate.dialect.CUBRIDDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [DB2] -> [org.hibernate.dialect.DB2Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [DB2390] -> [org.hibernate.dialect.DB2390Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [DB2390V8] -> [org.hibernate.dialect.DB2390V8Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [DB2400] -> [org.hibernate.dialect.DB2400Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [DerbyTenFive] -> [org.hibernate.dialect.DerbyTenFiveDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [DerbyTenSix] -> [org.hibernate.dialect.DerbyTenSixDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [DerbyTenSeven] -> [org.hibernate.dialect.DerbyTenSevenDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Firebird] -> [org.hibernate.dialect.FirebirdDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [FrontBase] -> [org.hibernate.dialect.FrontBaseDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [H2] -> [org.hibernate.dialect.H2Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [HANAColumnStore] -> [org.hibernate.dialect.HANAColumnStoreDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [HANARowStore] -> [org.hibernate.dialect.HANARowStoreDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [HSQL] -> [org.hibernate.dialect.HSQLDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Informix] -> [org.hibernate.dialect.InformixDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Ingres] -> [org.hibernate.dialect.IngresDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Ingres9] -> [org.hibernate.dialect.Ingres9Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Ingres10] -> [org.hibernate.dialect.Ingres10Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Interbase] -> [org.hibernate.dialect.InterbaseDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [JDataStore] -> [org.hibernate.dialect.JDataStoreDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Mckoi] -> [org.hibernate.dialect.MckoiDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [MimerSQL] -> [org.hibernate.dialect.MimerSQLDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [MySQL5] -> [org.hibernate.dialect.MySQL5Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [MySQL5InnoDB] -> [org.hibernate.dialect.MySQL5InnoDBDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [MySQL57InnoDB] -> [org.hibernate.dialect.MySQL57InnoDBDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [MySQL57] -> [org.hibernate.dialect.MySQL57Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Oracle8i] -> [org.hibernate.dialect.Oracle8iDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Oracle9i] -> [org.hibernate.dialect.Oracle9iDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Oracle10g] -> [org.hibernate.dialect.Oracle10gDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Pointbase] -> [org.hibernate.dialect.PointbaseDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [PostgresPlus] -> [org.hibernate.dialect.PostgresPlusDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [PostgreSQL81] -> [org.hibernate.dialect.PostgreSQL81Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [PostgreSQL82] -> [org.hibernate.dialect.PostgreSQL82Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [PostgreSQL9] -> [org.hibernate.dialect.PostgreSQL9Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Progress] -> [org.hibernate.dialect.ProgressDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [SAPDB] -> [org.hibernate.dialect.SAPDBDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [SQLServer] -> [org.hibernate.dialect.SQLServerDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [SQLServer2005] -> [org.hibernate.dialect.SQLServer2005Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [SQLServer2008] -> [org.hibernate.dialect.SQLServer2008Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Sybase11] -> [org.hibernate.dialect.Sybase11Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [SybaseAnywhere] -> [org.hibernate.dialect.SybaseAnywhereDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [SybaseASE15] -> [org.hibernate.dialect.SybaseASE15Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [SybaseASE157] -> [org.hibernate.dialect.SybaseASE157Dialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [Teradata] -> [org.hibernate.dialect.TeradataDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.dialect.Dialect] : [TimesTen] -> [org.hibernate.dialect.TimesTenDialect]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [Borland] -> [org.hibernate.engine.transaction.jta.platform.internal.BorlandEnterpriseServerJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.BorlandEnterpriseServerJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.BorlandEnterpriseServerJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [Bitronix] -> [org.hibernate.engine.transaction.jta.platform.internal.BitronixJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.BitronixJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.BitronixJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [JBossAS] -> [org.hibernate.engine.transaction.jta.platform.internal.JBossAppServerJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.JBossAppServerJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.JBossAppServerJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [JBossTS] -> [org.hibernate.engine.transaction.jta.platform.internal.JBossStandAloneJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.JBossStandAloneJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.JBossStandAloneJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [JOnAS] -> [org.hibernate.engine.transaction.jta.platform.internal.JOnASJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.JOnASJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.JOnASJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [JOTM] -> [org.hibernate.engine.transaction.jta.platform.internal.JOTMJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.JOTMJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.JOTMJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [JRun4] -> [org.hibernate.engine.transaction.jta.platform.internal.JRun4JtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.JRun4JtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.JRun4JtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [OC4J] -> [org.hibernate.engine.transaction.jta.platform.internal.OC4JJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.OC4JJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.OC4JJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [Orion] -> [org.hibernate.engine.transaction.jta.platform.internal.OrionJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.OrionJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.OrionJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [Resin] -> [org.hibernate.engine.transaction.jta.platform.internal.ResinJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.ResinJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.ResinJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [SapNetWeaver] -> [org.hibernate.engine.transaction.jta.platform.internal.SapNetWeaverJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.SapNetWeaverJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.SapNetWeaverJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [SunOne] -> [org.hibernate.engine.transaction.jta.platform.internal.SunOneJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.SunOneJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.SunOneJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [Weblogic] -> [org.hibernate.engine.transaction.jta.platform.internal.WeblogicJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.WeblogicJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.WeblogicJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [WebSphereLiberty] -> [org.hibernate.engine.transaction.jta.platform.internal.WebSphereLibertyJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.engine.transaction.jta.platform.internal.WebSphereLibertyJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.WebSphereLibertyJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [WebSphere] -> [org.hibernate.engine.transaction.jta.platform.internal.WebSphereJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.WebSphereJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.WebSphereJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [WebSphereExtended] -> [org.hibernate.engine.transaction.jta.platform.internal.WebSphereExtendedJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.engine.transaction.jta.platform.spi.JtaPlatform] : [org.hibernate.service.jta.platform.internal.WebSphereExtendedJtaPlatform] -> [org.hibernate.engine.transaction.jta.platform.internal.WebSphereExtendedJtaPlatform]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.resource.transaction.spi.TransactionCoordinatorBuilder] : [jdbc] -> [org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorBuilderImpl]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.resource.transaction.spi.TransactionCoordinatorBuilder] : [jta] -> [org.hibernate.resource.transaction.backend.jta.internal.JtaTransactionCoordinatorBuilderImpl]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.resource.transaction.spi.TransactionCoordinatorBuilder] : [org.hibernate.transaction.JDBCTransactionFactory] -> [org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorBuilderImpl]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.resource.transaction.spi.TransactionCoordinatorBuilder] : [org.hibernate.transaction.JTATransactionFactory] -> [org.hibernate.resource.transaction.backend.jta.internal.JtaTransactionCoordinatorBuilderImpl]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.resource.transaction.spi.TransactionCoordinatorBuilder] : [org.hibernate.transaction.CMTTransactionFactory] -> [org.hibernate.resource.transaction.backend.jta.internal.JtaTransactionCoordinatorBuilderImpl]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.hql.spi.id.MultiTableBulkIdStrategy] : [persistent] -> [org.hibernate.hql.spi.id.persistent.PersistentTableBulkIdStrategy]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.hql.spi.id.MultiTableBulkIdStrategy] : [global_temporary] -> [org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.hql.spi.id.MultiTableBulkIdStrategy] : [local_temporary] -> [org.hibernate.hql.spi.id.local.LocalTemporaryTableBulkIdStrategy]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.event.spi.EntityCopyObserver] : [disallow] -> [org.hibernate.event.internal.EntityCopyNotAllowedObserver]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.event.spi.EntityCopyObserver] : [allow] -> [org.hibernate.event.internal.EntityCopyAllowedObserver]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.event.spi.EntityCopyObserver] : [log] -> [org.hibernate.event.internal.EntityCopyAllowedLoggedObserver]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.boot.model.naming.ImplicitNamingStrategy] : [default] -> [org.hibernate.boot.model.naming.ImplicitNamingStrategyJpaCompliantImpl]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.boot.model.naming.ImplicitNamingStrategy] : [jpa] -> [org.hibernate.boot.model.naming.ImplicitNamingStrategyJpaCompliantImpl]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.boot.model.naming.ImplicitNamingStrategy] : [legacy-jpa] -> [org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.boot.model.naming.ImplicitNamingStrategy] : [legacy-hbm] -> [org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyHbmImpl]
+нояб. 14, 2018 1:33:25 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.boot.model.naming.ImplicitNamingStrategy] : [component-path] -> [org.hibernate.boot.model.naming.ImplicitNamingStrategyComponentPathImpl]
+нояб. 14, 2018 1:33:26 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.cache.spi.CacheKeysFactory] : [default] -> [org.hibernate.cache.internal.DefaultCacheKeysFactory]
+нояб. 14, 2018 1:33:26 ДП org.hibernate.boot.registry.selector.internal.StrategySelectorImpl registerStrategyImplementor
+TRACE: Registering named strategy selector [org.hibernate.cache.spi.CacheKeysFactory] : [simple] -> [org.hibernate.cache.internal.SimpleCacheKeysFactory]
+нояб. 14, 2018 1:33:26 ДП org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.3.7.Final}
+нояб. 14, 2018 1:33:26 ДП org.hibernate.cfg.Environment <clinit>
+INFO: HHH000206: hibernate.properties not found
+нояб. 14, 2018 1:33:35 ДП org.hibernate.boot.registry.classloading.internal.ClassLoaderServiceImpl locateResourceStream
+TRACE: trying via [new URL("hibernate.cfg.xml")]
+нояб. 14, 2018 1:33:35 ДП org.hibernate.boot.registry.classloading.internal.ClassLoaderServiceImpl locateResourceStream
+TRACE: trying via [ClassLoader.getResourceAsStream("hibernate.cfg.xml")]
+нояб. 14, 2018 1:33:37 ДП org.hibernate.boot.jaxb.internal.stax.LocalXmlResourceResolver resolveEntity
+TRACE: In resolveEntity(-//Hibernate/Hibernate Configuration DTD 3.0//EN, http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd, null, null)
+нояб. 14, 2018 1:33:37 ДП org.hibernate.boot.jaxb.internal.stax.LocalXmlResourceResolver resolveEntity
+DEBUG: Interpreting public/system identifier : [-//Hibernate/Hibernate Configuration DTD 3.0//EN] - [http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd]
+нояб. 14, 2018 1:33:37 ДП org.hibernate.boot.jaxb.internal.stax.LocalXmlResourceResolver resolveEntity
+DEBUG: Recognized hibernate-configuration identifier; attempting to resolve on classpath under org/hibernate/
+нояб. 14, 2018 1:33:37 ДП org.hibernate.boot.cfgxml.internal.JaxbCfgProcessor unmarshal
+DEBUG: cfg.xml document did not define namespaces; wrapping in custom event reader to introduce namespace information
+нояб. 14, 2018 1:33:37 ДП javax.xml.bind.ContextFinder find
+FINE: Searching jaxb.properties
+нояб. 14, 2018 1:33:37 ДП javax.xml.bind.ContextFinder getSystemProperty
+FINE: Checking system property javax.xml.bind.JAXBContextFactory
+нояб. 14, 2018 1:33:37 ДП javax.xml.bind.ContextFinder getSystemProperty
+FINE:   not found
+нояб. 14, 2018 1:33:37 ДП javax.xml.bind.ContextFinder getSystemProperty
+FINE: Checking system property javax.xml.bind.context.factory
+нояб. 14, 2018 1:33:37 ДП javax.xml.bind.ContextFinder getSystemProperty
+FINE:   not found
+нояб. 14, 2018 1:33:37 ДП javax.xml.bind.ContextFinder getSystemProperty
+FINE: Checking system property javax.xml.bind.JAXBContext
+нояб. 14, 2018 1:33:37 ДП javax.xml.bind.ContextFinder getSystemProperty
+FINE:   not found
+нояб. 14, 2018 1:33:37 ДП javax.xml.bind.ContextFinder firstByServiceLoaderDeprecated
+FINE: Searching META-INF/services
+нояб. 14, 2018 1:33:37 ДП javax.xml.bind.ContextFinder firstByServiceLoaderDeprecated
+FINE: Configured factorty class:com.sun.xml.bind.v2.ContextFactory
+нояб. 14, 2018 1:33:37 ДП javax.xml.bind.ContextFinder newInstance
+FINE: loaded com.sun.xml.bind.v2.ContextFactory from jar:file:/C:/Users/PP/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.1/jaxb-impl-2.3.1.jar!/com/sun/xml/bind/v2/ContextFactory.class
+нояб. 14, 2018 1:33:37 ДП com.sun.xml.bind.v2.ContextFactory createContext
+FINE: Property com.sun.xml.bind.XmlAccessorFactoryis not active.  Using JAXB's implementation
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+нояб. 14, 2018 1:33:44 ДП com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+нояб. 14, 2018 1:33:44 ДП org.hibernate.cfg.Configuration buildSessionFactory
+DEBUG: Building session factory using internal StandardServiceRegistryBuilder
+нояб. 14, 2018 1:33:44 ДП org.hibernate.service.spi.ServiceBinding setService
+DEBUG: Overriding existing service binding [org.hibernate.secure.spi.JaccService]
+нояб. 14, 2018 1:33:44 ДП org.hibernate.cfg.Configuration buildSessionFactory
+DEBUG: Building session factory using provided StandardServiceRegistry
+нояб. 14, 2018 1:33:44 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.engine.config.spi.ConfigurationService]
+нояб. 14, 2018 1:33:44 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.cache.spi.RegionFactory]
+нояб. 14, 2018 1:33:44 ДП org.hibernate.cache.internal.RegionFactoryInitiator resolveRegionFactory
+DEBUG: Cannot default RegionFactory based on registered strategies as `[]` RegionFactory strategies were registered
+нояб. 14, 2018 1:33:44 ДП org.hibernate.cache.internal.RegionFactoryInitiator initiateService
+DEBUG: Cache region factory : org.hibernate.cache.internal.NoCachingRegionFactory
+нояб. 14, 2018 1:33:44 ДП org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration boolean -> org.hibernate.type.BooleanType@5177e388
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration boolean -> org.hibernate.type.BooleanType@5177e388
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@5177e388
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@69d6a7cd
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration true_false -> org.hibernate.type.TrueFalseType@6cf31447
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration yes_no -> org.hibernate.type.YesNoType@1b29d52b
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration byte -> org.hibernate.type.ByteType@6f3f0fae
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration byte -> org.hibernate.type.ByteType@6f3f0fae
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@6f3f0fae
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration character -> org.hibernate.type.CharacterType@46678e49
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration char -> org.hibernate.type.CharacterType@46678e49
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@46678e49
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration short -> org.hibernate.type.ShortType@1abc9f14
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration short -> org.hibernate.type.ShortType@1abc9f14
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.Short -> org.hibernate.type.ShortType@1abc9f14
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration integer -> org.hibernate.type.IntegerType@3e4f80cb
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration int -> org.hibernate.type.IntegerType@3e4f80cb
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@3e4f80cb
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration long -> org.hibernate.type.LongType@e04ccf8
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration long -> org.hibernate.type.LongType@e04ccf8
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.Long -> org.hibernate.type.LongType@e04ccf8
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration float -> org.hibernate.type.FloatType@10667848
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration float -> org.hibernate.type.FloatType@10667848
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.Float -> org.hibernate.type.FloatType@10667848
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration double -> org.hibernate.type.DoubleType@4b54af3d
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration double -> org.hibernate.type.DoubleType@4b54af3d
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@4b54af3d
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@2116b68b
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@2116b68b
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration big_integer -> org.hibernate.type.BigIntegerType@3e1624c7
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@3e1624c7
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration string -> org.hibernate.type.StringType@2b56f5f8
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.String -> org.hibernate.type.StringType@2b56f5f8
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration nstring -> org.hibernate.type.StringNVarcharType@1aa99005
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@5cdf39b2
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration url -> org.hibernate.type.UrlType@3bead518
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.net.URL -> org.hibernate.type.UrlType@3bead518
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration Duration -> org.hibernate.type.DurationType@345cf395
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.time.Duration -> org.hibernate.type.DurationType@345cf395
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration Instant -> org.hibernate.type.InstantType@26d820eb
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.time.Instant -> org.hibernate.type.InstantType@26d820eb
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@49293b43
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@49293b43
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration LocalDate -> org.hibernate.type.LocalDateType@ba354ca
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@ba354ca
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@4eb30d44
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@4eb30d44
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@351e414e
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@351e414e
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@348d18a3
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@348d18a3
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@31464a43
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@31464a43
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration date -> org.hibernate.type.DateType@238acd0b
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.sql.Date -> org.hibernate.type.DateType@238acd0b
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration time -> org.hibernate.type.TimeType@7a7d1b47
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.sql.Time -> org.hibernate.type.TimeType@7a7d1b47
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration timestamp -> org.hibernate.type.TimestampType@1bd0b0e5
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@1bd0b0e5
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.util.Date -> org.hibernate.type.TimestampType@1bd0b0e5
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@38eb2c50
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration calendar -> org.hibernate.type.CalendarType@1686f0b4
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@1686f0b4
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@1686f0b4
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@627d8516
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration locale -> org.hibernate.type.LocaleType@4e31c3ec
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@4e31c3ec
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration currency -> org.hibernate.type.CurrencyType@39e67516
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@39e67516
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration timezone -> org.hibernate.type.TimeZoneType@6c03fb16
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@6c03fb16
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration class -> org.hibernate.type.ClassType@4b2d44bc
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.Class -> org.hibernate.type.ClassType@4b2d44bc
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@5782d777
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@5782d777
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@681adc8f
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration binary -> org.hibernate.type.BinaryType@50acf55d
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration byte[] -> org.hibernate.type.BinaryType@50acf55d
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration [B -> org.hibernate.type.BinaryType@50acf55d
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@7ae9a33a
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@7ae9a33a
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@7ae9a33a
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration row_version -> org.hibernate.type.RowVersionType@4ba380c7
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration image -> org.hibernate.type.ImageType@7ea08277
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration characters -> org.hibernate.type.CharArrayType@280e8a1a
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration char[] -> org.hibernate.type.CharArrayType@280e8a1a
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration [C -> org.hibernate.type.CharArrayType@280e8a1a
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@5ff2e84b
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@5ff2e84b
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@5ff2e84b
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration text -> org.hibernate.type.TextType@65a5d4f9
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration ntext -> org.hibernate.type.NTextType@af9a89f
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration blob -> org.hibernate.type.BlobType@62ce72ff
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@62ce72ff
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@3fd2322d
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration clob -> org.hibernate.type.ClobType@21f8e55f
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@21f8e55f
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration nclob -> org.hibernate.type.NClobType@418c020b
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@418c020b
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@34cf294c
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@2f1ea80d
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration serializable -> org.hibernate.type.SerializableType@40f8f5a8
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration object -> org.hibernate.type.ObjectType@de77232
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@de77232
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@4ab550d5
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@3cd206b5
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@58e85c6f
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@a137d7a
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@6ac0b715
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@468be356
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@5c9ac4cc
+нояб. 14, 2018 1:33:45 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@4df39a88
+нояб. 14, 2018 1:33:45 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.boot.cfgxml.spi.CfgXmlAccessService]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.id.factory.spi.MutableIdentifierGeneratorFactory]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [uuid2] -> [org.hibernate.id.UUIDGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [guid] -> [org.hibernate.id.GUIDGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [uuid] -> [org.hibernate.id.UUIDHexGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [uuid.hex] -> [org.hibernate.id.UUIDHexGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [assigned] -> [org.hibernate.id.Assigned]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [identity] -> [org.hibernate.id.IdentityGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [select] -> [org.hibernate.id.SelectGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [sequence] -> [org.hibernate.id.enhanced.SequenceStyleGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [seqhilo] -> [org.hibernate.id.SequenceHiLoGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [increment] -> [org.hibernate.id.IncrementGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [foreign] -> [org.hibernate.id.ForeignGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [sequence-identity] -> [org.hibernate.id.SequenceIdentityGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [enhanced-sequence] -> [org.hibernate.id.enhanced.SequenceStyleGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory register
+DEBUG: Registering IdentifierGenerator strategy [enhanced-table] -> [org.hibernate.id.enhanced.TableGenerator]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.engine.jdbc.dialect.spi.DialectFactory]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.engine.jdbc.dialect.spi.DialectResolver]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.engine.jdbc.connections.spi.ConnectionProvider]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+нояб. 14, 2018 1:33:45 ДП org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/hb_student_tracker]
+нояб. 14, 2018 1:33:45 ДП org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {password=admin, user=postgres}
+нояб. 14, 2018 1:33:45 ДП org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+нояб. 14, 2018 1:33:45 ДП org.jboss.logging.DelegatingBasicLogger debugf
+DEBUG: Initializing Connection pool with 1 Connections
+нояб. 14, 2018 1:33:45 ДП org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 1 (min=1)
+нояб. 14, 2018 1:33:46 ДП org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+DEBUG: Database ->
+       name : PostgreSQL
+    version : 9.5.14
+      major : 9
+      minor : 5
+нояб. 14, 2018 1:33:46 ДП org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+DEBUG: Driver ->
+       name : PostgreSQL Native Driver
+    version : PostgreSQL 9.1 JDBC4 (build 901)
+      major : 9
+      minor : 1
+нояб. 14, 2018 1:33:46 ДП org.jboss.logging.DelegatingBasicLogger debugf
+DEBUG: JDBC version : 4.0
+нояб. 14, 2018 1:33:46 ДП org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+нояб. 14, 2018 1:33:46 ДП org.hibernate.engine.jdbc.env.internal.DefaultSchemaNameResolver determineAppropriateResolverDelegate
+DEBUG: Unable to use Java 1.7 Connection#getSchema : An error occurred trying to resolve the connection default schema resolver: Method org.postgresql.jdbc4.Jdbc4Connection.getSchema() is not yet implemented.
+нояб. 14, 2018 1:33:46 ДП org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentImpl determineCurrentSchemaName
+DEBUG: Unable to resolve connection default schema
+org.hibernate.HibernateException: Use of DefaultSchemaNameResolver requires Dialect to provide the proper SQL statement/command but provided Dialect [org.hibernate.dialect.PostgreSQL9Dialect] did not return anything from Dialect#getCurrentSchemaCommand
+	at org.hibernate.engine.jdbc.env.internal.DefaultSchemaNameResolver$SchemaNameResolverFallbackDelegate.resolveSchemaName(DefaultSchemaNameResolver.java:100)
+	at org.hibernate.engine.jdbc.env.internal.DefaultSchemaNameResolver.resolveSchemaName(DefaultSchemaNameResolver.java:76)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentImpl.determineCurrentSchemaName(JdbcEnvironmentImpl.java:298)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentImpl.<init>(JdbcEnvironmentImpl.java:232)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:114)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:94)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:179)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:119)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.build(MetadataBuildingProcess.java:84)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:474)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:85)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:689)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:724)
+	at Model.<clinit>(Model.java:14)
+	at WeatherBot.<init>(WeatherBot.java:11)
+	at WeatherBot.getInstance(WeatherBot.java:59)
+	at Program.main(Program.java:30)
+
+нояб. 14, 2018 1:33:46 ДП org.hibernate.engine.jdbc.env.spi.IdentifierHelperBuilder applyIdentifierCasing
+DEBUG: JDBC driver metadata reported database stores quoted identifiers in neither upper, lower nor mixed case
+нояб. 14, 2018 1:33:46 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [hb_student_tracker]
+нояб. 14, 2018 1:33:46 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [null]
+нояб. 14, 2018 1:33:46 ДП org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl useContextualLobCreation
+INFO: HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+нояб. 14, 2018 1:33:46 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.engine.jdbc.spi.JdbcServices]
+нояб. 14, 2018 1:33:46 ДП org.hibernate.boot.model.relational.Namespace <init>
+DEBUG: Created database namespace [logicalName=Name{catalog=null, schema=null}, physicalName=Name{catalog=null, schema=null}]
+нояб. 14, 2018 1:33:46 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration pg-uuid -> org.hibernate.type.PostgresUUIDType@5f7989fa
+нояб. 14, 2018 1:33:46 ДП org.hibernate.type.BasicTypeRegistry register
+DEBUG: Adding type registration java.util.UUID -> org.hibernate.type.PostgresUUIDType@5f7989fa
+нояб. 14, 2018 1:33:46 ДП org.hibernate.type.BasicTypeRegistry register
+INFO: HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@5782d777
+нояб. 14, 2018 1:33:46 ДП org.hibernate.type.spi.TypeConfiguration scope
+DEBUG: Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@654c7d2d] to MetadataBuildingContext [org.hibernate.boot.internal.MetadataBuildingContextRootImpl@26cb5207]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AnnotationBinder bindClass
+DEBUG: Binding entity from annotated class: Subscriber
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [DTYPE]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Ejb3Column bind
+DEBUG: Binding column: Ejb3DiscriminatorColumn{logicalColumnName'DTYPE', discriminatorTypeName='string'}
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.EntityBinder bindEntity
+DEBUG: Import with entity name Subscriber
+нояб. 14, 2018 1:33:47 ДП org.hibernate.boot.internal.InFlightMetadataCollectorImpl addImport
+TRACE: Import: Subscriber -> Subscriber
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [subscriber]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [subscriber]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.EntityBinder bindTable
+DEBUG: Bind entity Subscriber on table subscriber
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AnnotationBinder processElementAnnotations
+TRACE: Processing annotations of Subscriber.id
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [id]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [id]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Ejb3Column bind
+DEBUG: Binding column: Ejb3Column{table=org.hibernate.mapping.Table(subscriber), mappingColumn=id, insertable=true, updatable=true, unique=false}
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makePropertyAndValue
+DEBUG: MetadataSourceProcessor property id with lazy=false
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AbstractPropertyHolder resolveAttributeConverterDescriptor
+DEBUG: Attempting to locate auto-apply AttributeConverter for property [Subscriber:id]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder make
+DEBUG: building SimpleValue for id
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [id]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [id]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [id]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+DEBUG: Building property id
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+TRACE: Cascading id with null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.BinderHelper makeIdGenerator
+DEBUG: #makeIdGenerator(org.hibernate.mapping.SimpleValue([org.hibernate.mapping.Column(id)]), id, assigned, , ...)
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AnnotationBinder processId
+TRACE: Bind @Id on id
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AnnotationBinder processElementAnnotations
+TRACE: Processing annotations of Subscriber.chatId
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [chat_id]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [chat_id]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Ejb3Column bind
+DEBUG: Binding column: Ejb3Column{table=org.hibernate.mapping.Table(subscriber), mappingColumn=chat_id, insertable=true, updatable=true, unique=false}
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makePropertyAndValue
+DEBUG: MetadataSourceProcessor property chatId with lazy=false
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AbstractPropertyHolder resolveAttributeConverterDescriptor
+DEBUG: Attempting to locate auto-apply AttributeConverter for property [Subscriber:chatId]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder make
+DEBUG: building SimpleValue for chatId
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [chat_id]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+DEBUG: Building property chatId
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+TRACE: Cascading chatId with null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AnnotationBinder processElementAnnotations
+TRACE: Processing annotations of Subscriber.firstName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [first_name]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [first_name]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Ejb3Column bind
+DEBUG: Binding column: Ejb3Column{table=org.hibernate.mapping.Table(subscriber), mappingColumn=first_name, insertable=true, updatable=true, unique=false}
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makePropertyAndValue
+DEBUG: MetadataSourceProcessor property firstName with lazy=false
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AbstractPropertyHolder resolveAttributeConverterDescriptor
+DEBUG: Attempting to locate auto-apply AttributeConverter for property [Subscriber:firstName]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder make
+DEBUG: building SimpleValue for firstName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [first_name]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+DEBUG: Building property firstName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+TRACE: Cascading firstName with null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AnnotationBinder processElementAnnotations
+TRACE: Processing annotations of Subscriber.lastName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [last_name]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [last_name]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Ejb3Column bind
+DEBUG: Binding column: Ejb3Column{table=org.hibernate.mapping.Table(subscriber), mappingColumn=last_name, insertable=true, updatable=true, unique=false}
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makePropertyAndValue
+DEBUG: MetadataSourceProcessor property lastName with lazy=false
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AbstractPropertyHolder resolveAttributeConverterDescriptor
+DEBUG: Attempting to locate auto-apply AttributeConverter for property [Subscriber:lastName]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder make
+DEBUG: building SimpleValue for lastName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [last_name]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+DEBUG: Building property lastName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+TRACE: Cascading lastName with null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AnnotationBinder processElementAnnotations
+TRACE: Processing annotations of Subscriber.location
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [location]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [location]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Ejb3Column bind
+DEBUG: Binding column: Ejb3Column{table=org.hibernate.mapping.Table(subscriber), mappingColumn=location, insertable=true, updatable=true, unique=false}
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makePropertyAndValue
+DEBUG: MetadataSourceProcessor property location with lazy=false
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AbstractPropertyHolder resolveAttributeConverterDescriptor
+DEBUG: Attempting to locate auto-apply AttributeConverter for property [Subscriber:location]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder make
+DEBUG: building SimpleValue for location
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [location]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+DEBUG: Building property location
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+TRACE: Cascading location with null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AnnotationBinder processElementAnnotations
+TRACE: Processing annotations of Subscriber.userName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [username]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [username]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Ejb3Column bind
+DEBUG: Binding column: Ejb3Column{table=org.hibernate.mapping.Table(subscriber), mappingColumn=username, insertable=true, updatable=true, unique=false}
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makePropertyAndValue
+DEBUG: MetadataSourceProcessor property userName with lazy=false
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.AbstractPropertyHolder resolveAttributeConverterDescriptor
+DEBUG: Attempting to locate auto-apply AttributeConverter for property [Subscriber:userName]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder make
+DEBUG: building SimpleValue for userName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl normalizeQuoting
+TRACE: Normalizing identifier quoting [username]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+DEBUG: Building property userName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.PropertyBinder makeProperty
+TRACE: Cascading userName with null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder fillSimpleValue
+DEBUG: Starting fillSimpleValue for id
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder fillSimpleValue
+DEBUG: Starting fillSimpleValue for chatId
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder fillSimpleValue
+DEBUG: Starting fillSimpleValue for firstName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder fillSimpleValue
+DEBUG: Starting fillSimpleValue for lastName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder fillSimpleValue
+DEBUG: Starting fillSimpleValue for location
+нояб. 14, 2018 1:33:47 ДП org.hibernate.boot.internal.ClassLoaderAccessImpl classForName
+DEBUG: Not known whether passed class name [org.telegram.telegrambots.meta.api.objects.Location] is safe
+нояб. 14, 2018 1:33:47 ДП org.hibernate.boot.internal.ClassLoaderAccessImpl classForName
+DEBUG: No temp ClassLoader provided; using live ClassLoader for loading potentially unsafe class : org.telegram.telegrambots.meta.api.objects.Location
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.annotations.SimpleValueBinder fillSimpleValue
+DEBUG: Starting fillSimpleValue for userName
+нояб. 14, 2018 1:33:47 ДП org.hibernate.mapping.PrimaryKey addColumn
+DEBUG: Forcing column [id] to be non-null as it is part of the primary key for table [subscriber]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.loader.BatchFetchStyle interpret
+TRACE: Interpreting BatchFetchStyle from setting : null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.resource.transaction.spi.TransactionCoordinatorBuilder]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.internal.SessionFactoryImpl <init>
+DEBUG: Building session factory
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: SessionFactory name : null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Automatic flush during beforeCompletion(): enabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Automatic session close at end of transaction: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Statistics: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Deleted entity synthetic identifier rollback: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Default entity-mode: pojo
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Check Nullability in Core (should be disabled when Bean Validation is on): enabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Allow initialization of lazy state outside session : disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Using BatchFetchStyle : LEGACY
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Default batch fetch size: -1
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Maximum outer join fetch depth: null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Default null ordering: NONE
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Order SQL updates by primary key: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Order SQL inserts for batching: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: multi-tenancy strategy : NONE
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: JTA Track by Thread: enabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Query language substitutions: {}
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Named query checking : enabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Second-level cache: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Second-level query cache: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Second-level query cache factory: null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Second-level cache region prefix: null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Optimize second-level cache for minimal puts: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Structured second-level cache entries: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Second-level cache direct-reference entries: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Automatic eviction of collection cache: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: JDBC batch size: 15
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: JDBC batch updates for versioned data: enabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Scrollable result sets: enabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Wrap result sets: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: JDBC3 getGeneratedKeys(): enabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: JDBC result set fetch size: null
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Connection release mode: AFTER_TRANSACTION
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: Generate SQL with comments: disabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: JPA compliance - query : 
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: JPA compliance - closed-handling : 
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: JPA compliance - lists : 
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.Settings <init>
+DEBUG: JPA compliance - transactions : 
+нояб. 14, 2018 1:33:47 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.service.spi.SessionFactoryServiceRegistryFactory]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.event.service.spi.EventListenerRegistry]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.resource.beans.spi.ManagedBeanRegistry]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.cache.spi.CacheImplementor]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.internal.SessionFactoryImpl <init>
+DEBUG: Session factory constructed with filter configurations : {}
+нояб. 14, 2018 1:33:47 ДП org.hibernate.internal.SessionFactoryImpl <init>
+DEBUG: Instantiating session factory with properties: {sun.desktop=windows, awt.toolkit=sun.awt.windows.WToolkit, dialect=org.hibernate.dialect.PostgreSQL9Dialect, java.specification.version=10, file.encoding.pkg=sun.io, sun.cpu.isalist=amd64, sun.jnu.encoding=Cp1251, hibernate.dialect=org.hibernate.dialect.PostgreSQL9Dialect, java.class.path=C:\IDEA\TelegramWeatherBot\target\classes;C:\Users\PP\.m2\repository\org\telegram\telegrambots\4.1\telegrambots-4.1.jar;C:\Users\PP\.m2\repository\org\telegram\telegrambots-meta\4.1\telegrambots-meta-4.1.jar;C:\Users\PP\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0.jar;C:\Users\PP\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\PP\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\PP\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\PP\.m2\repository\com\fasterxml\jackson\jaxrs\jackson-jaxrs-json-provider\2.8.7\jackson-jaxrs-json-provider-2.8.7.jar;C:\Users\PP\.m2\repository\com\fasterxml\jackson\jaxrs\jackson-jaxrs-base\2.8.7\jackson-jaxrs-base-2.8.7.jar;C:\Users\PP\.m2\repository\com\fasterxml\jackson\module\jackson-module-jaxb-annotations\2.8.7\jackson-module-jaxb-annotations-2.8.7.jar;C:\Users\PP\.m2\repository\org\glassfish\jersey\media\jersey-media-json-jackson\2.25.1\jersey-media-json-jackson-2.25.1.jar;C:\Users\PP\.m2\repository\org\glassfish\jersey\core\jersey-common\2.25.1\jersey-common-2.25.1.jar;C:\Users\PP\.m2\repository\org\glassfish\jersey\bundles\repackaged\jersey-guava\2.25.1\jersey-guava-2.25.1.jar;C:\Users\PP\.m2\repository\org\glassfish\hk2\osgi-resource-locator\1.0.1\osgi-resource-locator-1.0.1.jar;C:\Users\PP\.m2\repository\org\glassfish\jersey\ext\jersey-entity-filtering\2.25.1\jersey-entity-filtering-2.25.1.jar;C:\Users\PP\.m2\repository\org\glassfish\jersey\containers\jersey-container-grizzly2-http\2.25.1\jersey-container-grizzly2-http-2.25.1.jar;C:\Users\PP\.m2\repository\org\glassfish\hk2\external\javax.inject\2.5.0-b32\javax.inject-2.5.0-b32.jar;C:\Users\PP\.m2\repository\org\glassfish\grizzly\grizzly-http-server\2.3.28\grizzly-http-server-2.3.28.jar;C:\Users\PP\.m2\repository\org\glassfish\grizzly\grizzly-http\2.3.28\grizzly-http-2.3.28.jar;C:\Users\PP\.m2\repository\org\glassfish\grizzly\grizzly-framework\2.3.28\grizzly-framework-2.3.28.jar;C:\Users\PP\.m2\repository\javax\ws\rs\javax.ws.rs-api\2.0.1\javax.ws.rs-api-2.0.1.jar;C:\Users\PP\.m2\repository\org\glassfish\jersey\core\jersey-server\2.25.1\jersey-server-2.25.1.jar;C:\Users\PP\.m2\repository\org\glassfish\jersey\core\jersey-client\2.25.1\jersey-client-2.25.1.jar;C:\Users\PP\.m2\repository\org\glassfish\jersey\media\jersey-media-jaxb\2.25.1\jersey-media-jaxb-2.25.1.jar;C:\Users\PP\.m2\repository\javax\annotation\javax.annotation-api\1.2\javax.annotation-api-1.2.jar;C:\Users\PP\.m2\repository\org\glassfish\hk2\hk2-api\2.5.0-b32\hk2-api-2.5.0-b32.jar;C:\Users\PP\.m2\repository\org\glassfish\hk2\hk2-utils\2.5.0-b32\hk2-utils-2.5.0-b32.jar;C:\Users\PP\.m2\repository\org\glassfish\hk2\external\aopalliance-repackaged\2.5.0-b32\aopalliance-repackaged-2.5.0-b32.jar;C:\Users\PP\.m2\repository\org\glassfish\hk2\hk2-locator\2.5.0-b32\hk2-locator-2.5.0-b32.jar;C:\Users\PP\.m2\repository\javax\validation\validation-api\1.1.0.Final\validation-api-1.1.0.Final.jar;C:\Users\PP\.m2\repository\org\json\json\20160810\json-20160810.jar;C:\Users\PP\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\PP\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\PP\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\PP\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\PP\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\PP\.m2\repository\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\PP\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.7\jackson-core-2.9.7.jar;C:\Users\PP\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.7\jackson-databind-2.9.7.jar;C:\Users\PP\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.7\jackson-annotations-2.9.7.jar;C:\Users\PP\.m2\repository\org\hibernate\hibernate-core\5.3.7.Final\hibernate-core-5.3.7.Final.jar;C:\Users\PP\.m2\repository\org\jboss\logging\jboss-logging\3.3.2.Final\jboss-logging-3.3.2.Final.jar;C:\Users\PP\.m2\repository\javax\persistence\javax.persistence-api\2.2\javax.persistence-api-2.2.jar;C:\Users\PP\.m2\repository\org\javassist\javassist\3.23.1-GA\javassist-3.23.1-GA.jar;C:\Users\PP\.m2\repository\net\bytebuddy\byte-buddy\1.8.17\byte-buddy-1.8.17.jar;C:\Users\PP\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar;C:\Users\PP\.m2\repository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.2_spec\1.1.1.Final\jboss-transaction-api_1.2_spec-1.1.1.Final.jar;C:\Users\PP\.m2\repository\org\jboss\jandex\2.0.5.Final\jandex-2.0.5.Final.jar;C:\Users\PP\.m2\repository\com\fasterxml\classmate\1.3.4\classmate-1.3.4.jar;C:\Users\PP\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar;C:\Users\PP\.m2\repository\org\dom4j\dom4j\2.1.1\dom4j-2.1.1.jar;C:\Users\PP\.m2\repository\org\hibernate\common\hibernate-commons-annotations\5.0.4.Final\hibernate-commons-annotations-5.0.4.Final.jar;C:\Users\PP\.m2\repository\com\sun\xml\bind\jaxb-core\2.3.0.1\jaxb-core-2.3.0.1.jar;C:\Users\PP\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar;C:\Users\PP\.m2\repository\com\sun\xml\bind\jaxb-impl\2.3.1\jaxb-impl-2.3.1.jar;C:\Users\PP\.m2\repository\postgresql\postgresql\9.1-901-1.jdbc4\postgresql-9.1-901-1.jdbc4.jar, java.vm.vendor="Oracle Corporation", sun.arch.data.model=64, user.variant=, java.vendor.url=http://java.oracle.com/, user.timezone=Europe/Moscow, os.name=Windows 8.1, java.vm.specification.version=10, current_session_context_class=thread, sun.java.launcher=SUN_STANDARD, user.country=RU, sun.boot.library.path=C:\Program Files\Java\jdk-10.0.1\bin, sun.java.command=Program, jdk.debug=release, sun.cpu.endian=little, user.home=C:\Users\PP, user.language=ru, java.specification.vendor=Oracle Corporation, java.version.date=2018-04-17, java.home=C:\Program Files\Java\jdk-10.0.1, file.separator=\, java.vm.compressedOopsMode=32-bit, line.separator=
+, java.specification.name=Java Platform API Specification, java.vm.specification.vendor=Oracle Corporation, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, user.script=, connection.password=admin, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, java.runtime.version=10.0.1+10, user.name=PP, path.separator=;, hibernate.connection.username=****, os.version=6.3, java.runtime.name=Java(TM) SE Runtime Environment, hibernate.connection.url=jdbc:postgresql://localhost:5432/hb_student_tracker, connection.pool_size=1, file.encoding=UTF-8, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, hibernate.show_sql=true, java.vendor.version=18.3, hibernate.current_session_context_class=thread, show_sql=true, hibernate.connection.driver_class=org.postgresql.Driver, java.vendor.url.bug=http://bugreport.java.com/bugreport/, java.io.tmpdir=C:\Users\PP\AppData\Local\Temp\, java.version=10.0.1, user.dir=C:\IDEA\TelegramWeatherBot, os.arch=amd64, connection.username=postgres, java.vm.specification.name=Java Virtual Machine Specification, java.awt.printerjob=sun.awt.windows.WPrinterJob, hibernate.connection.password=****, sun.os.patch.level=, connection.driver_class=org.postgresql.Driver, hibernate.boot.CfgXmlAccessService.key=org.hibernate.boot.cfgxml.spi.LoadedConfig@360e9c06, java.library.path=C:\Program Files\Java\jdk-10.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Broadcom\Broadcom 802.11;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Java\jdk-10.0.1\\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Users\PP\.m2\repository\org\seleniumhq\selenium\phantomjs-2.1.1-windows\bin;C:\Program Files\Git\cmd;C:\Users\PP\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\PP\AppData\Local\Programs\Python\Python37-32\;C:\Program Files\Java\jdk-10.0.1\bin;., java.vendor=Oracle Corporation, java.vm.info=mixed mode, java.vm.version=10.0.1+10, hibernate.bytecode.use_reflection_optimizer=false, sun.io.unicode.encoding=UnicodeLittle, hibernate.connection.pool_size=1, connection.url=jdbc:postgresql://localhost:5432/hb_student_tracker, java.class.version=54.0}
+нояб. 14, 2018 1:33:47 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.engine.query.spi.NativeQueryInterpreter]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.cfg.beanvalidation.TypeSafeActivator activate
+DEBUG: Unable to acquire Bean Validation ValidatorFactory, skipping activation
+нояб. 14, 2018 1:33:47 ДП org.hibernate.secure.spi.JaccIntegrator doIntegration
+DEBUG: Skipping JACC integration as it was not enabled
+нояб. 14, 2018 1:33:47 ДП org.hibernate.internal.SessionFactoryImpl <init>
+DEBUG: Instantiated session factory
+нояб. 14, 2018 1:33:47 ДП org.hibernate.type.spi.TypeConfiguration scope
+DEBUG: Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@654c7d2d] to SessionFactoryImpl [org.hibernate.internal.SessionFactoryImpl@5e9f73b]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.persister.spi.PersisterFactory]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.persister.spi.PersisterClassResolver]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.property.access.spi.PropertyAccessStrategyResolver]
+нояб. 14, 2018 1:33:47 ДП org.hibernate.boot.internal.ClassLoaderAccessImpl classForName
+DEBUG: Not known whether passed class name [Subscriber] is safe
+нояб. 14, 2018 1:33:47 ДП org.hibernate.boot.internal.ClassLoaderAccessImpl classForName
+DEBUG: No temp ClassLoader provided; using live ClassLoader for loading potentially unsafe class : Subscriber
+нояб. 14, 2018 1:33:48 ДП org.hibernate.boot.internal.ClassLoaderAccessImpl classForName
+DEBUG: Not known whether passed class name [Subscriber] is safe
+нояб. 14, 2018 1:33:48 ДП org.hibernate.boot.internal.ClassLoaderAccessImpl classForName
+DEBUG: No temp ClassLoader provided; using live ClassLoader for loading potentially unsafe class : Subscriber
+нояб. 14, 2018 1:33:48 ДП org.hibernate.tuple.PojoInstantiator <init>
+INFO: HHH000182: No default (no-argument) constructor for class: Subscriber (class must be instantiated by Interceptor)
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.entity.AbstractPropertyMapping logDuplicateRegistration
+TRACE: Skipping duplicate registration of path [chatId], existing type = [org.hibernate.type.LongType@e04ccf8], incoming type = [org.hibernate.type.LongType@e04ccf8]
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.entity.AbstractPropertyMapping logDuplicateRegistration
+TRACE: Skipping duplicate registration of path [firstName], existing type = [org.hibernate.type.StringType@2b56f5f8], incoming type = [org.hibernate.type.StringType@2b56f5f8]
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.entity.AbstractPropertyMapping logDuplicateRegistration
+TRACE: Skipping duplicate registration of path [lastName], existing type = [org.hibernate.type.StringType@2b56f5f8], incoming type = [org.hibernate.type.StringType@2b56f5f8]
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.entity.AbstractPropertyMapping logDuplicateRegistration
+TRACE: Skipping duplicate registration of path [location], existing type = [org.hibernate.type.SerializableType@7b5cc918], incoming type = [org.hibernate.type.SerializableType@7b5cc918]
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.entity.AbstractPropertyMapping logDuplicateRegistration
+TRACE: Skipping duplicate registration of path [userName], existing type = [org.hibernate.type.StringType@2b56f5f8], incoming type = [org.hibernate.type.StringType@2b56f5f8]
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.entity.AbstractPropertyMapping logDuplicateRegistration
+TRACE: Skipping duplicate registration of path [id], existing type = [org.hibernate.type.IntegerType@3e4f80cb], incoming type = [org.hibernate.type.IntegerType@3e4f80cb]
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.entity.AbstractEntityPersister logStaticSQL
+DEBUG: Static SQL for entity: Subscriber
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.entity.AbstractEntityPersister logStaticSQL
+DEBUG:  Version select: select id from subscriber where id =?
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.entity.AbstractEntityPersister logStaticSQL
+DEBUG:  Snapshot select: select subscriber_.id, subscriber_.chat_id as chat_id2_0_, subscriber_.first_name as first_na3_0_, subscriber_.last_name as last_nam4_0_, subscriber_.location as location5_0_, subscriber_.username as username6_0_ from subscriber subscriber_ where subscriber_.id=?
+нояб. 14, 2018 1:33:49 ДП org.jboss.logging.DelegatingBasicLogger debugf
+DEBUG:  Insert 0: insert into subscriber (chat_id, first_name, last_name, location, username, id) values (?, ?, ?, ?, ?, ?)
+нояб. 14, 2018 1:33:49 ДП org.jboss.logging.DelegatingBasicLogger debugf
+DEBUG:  Update 0: update subscriber set chat_id=?, first_name=?, last_name=?, location=?, username=? where id=?
+нояб. 14, 2018 1:33:49 ДП org.jboss.logging.DelegatingBasicLogger debugf
+DEBUG:  Delete 0: delete from subscriber where id=?
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingEntity
+TRACE:  Starting root entity : Subscriber
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.spaces.QuerySpacesImpl registerQuerySpace
+DEBUG: Adding QuerySpace : uid = <gen:0> -> org.hibernate.loader.plan.build.internal.spaces.EntityQuerySpaceImpl@796d33eb]
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy pushToStack
+TRACE: Pushing fetch source to stack : org.hibernate.loader.plan.build.internal.returns.EntityReturnImpl@5fdfe8cf
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy associationKeyRegistered
+TRACE: .. Registering AssociationKey : AssociationKey(table=subscriber, columns={id}) -> org.hibernate.loader.plan.build.internal.returns.EntityReturnImpl@5fdfe8cf
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingEntityIdentifier
+TRACE: >> Starting entity identifier : Subscriber
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.walking.spi.MetamodelGraphWalker visitAttributeDefinition
+DEBUG: Visiting attribute path : chatId
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingAttribute
+TRACE: >> Starting attribute Attribute(name=chatId, type=long [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingAttribute
+TRACE: << Finishing up attribute : Attribute(name=chatId, type=long [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.walking.spi.MetamodelGraphWalker visitAttributeDefinition
+DEBUG: Visiting attribute path : firstName
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingAttribute
+TRACE: >> Starting attribute Attribute(name=firstName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingAttribute
+TRACE: << Finishing up attribute : Attribute(name=firstName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.walking.spi.MetamodelGraphWalker visitAttributeDefinition
+DEBUG: Visiting attribute path : lastName
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingAttribute
+TRACE: >> Starting attribute Attribute(name=lastName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingAttribute
+TRACE: << Finishing up attribute : Attribute(name=lastName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.walking.spi.MetamodelGraphWalker visitAttributeDefinition
+DEBUG: Visiting attribute path : location
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingAttribute
+TRACE: >> Starting attribute Attribute(name=location, type=org.telegram.telegrambots.meta.api.objects.Location [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingAttribute
+TRACE: << Finishing up attribute : Attribute(name=location, type=org.telegram.telegrambots.meta.api.objects.Location [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.walking.spi.MetamodelGraphWalker visitAttributeDefinition
+DEBUG: Visiting attribute path : userName
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingAttribute
+TRACE: >> Starting attribute Attribute(name=userName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingAttribute
+TRACE: << Finishing up attribute : Attribute(name=userName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy popFromStack
+TRACE: Popped fetch owner from stack : org.hibernate.loader.plan.build.internal.returns.EntityReturnImpl@5fdfe8cf
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingEntity
+TRACE:  Finished root entity : Subscriber
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.FetchStyleLoadPlanBuildingAssociationVisitationStrategy buildLoadPlan
+DEBUG: Building LoadPlan...
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.exec.internal.LoadQueryJoinAndFetchProcessor processQuerySpaceJoins
+DEBUG: processing queryspace <gen:0>
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.spi.LoadPlanTreePrinter logTree
+DEBUG: LoadPlan(entity=Subscriber)
+    - Returns
+       - EntityReturnImpl(entity=Subscriber, querySpaceUid=<gen:0>, path=Subscriber)
+    - QuerySpaces
+       - EntityQuerySpaceImpl(uid=<gen:0>, entity=Subscriber)
+          - SQL table alias mapping - subscriber0_
+          - alias suffix - 0_
+          - suffixed key columns - {id1_0_0_}
+
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.entity.plan.EntityLoader <init>
+DEBUG: Static select for entity Subscriber [NONE]: select subscriber0_.id as id1_0_0_, subscriber0_.chat_id as chat_id2_0_0_, subscriber0_.first_name as first_na3_0_0_, subscriber0_.last_name as last_nam4_0_0_, subscriber0_.location as location5_0_0_, subscriber0_.username as username6_0_0_ from subscriber subscriber0_ where subscriber0_.id=?
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingEntity
+TRACE:  Starting root entity : Subscriber
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.spaces.QuerySpacesImpl registerQuerySpace
+DEBUG: Adding QuerySpace : uid = <gen:0> -> org.hibernate.loader.plan.build.internal.spaces.EntityQuerySpaceImpl@4c731956]
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy pushToStack
+TRACE: Pushing fetch source to stack : org.hibernate.loader.plan.build.internal.returns.EntityReturnImpl@56826a75
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy associationKeyRegistered
+TRACE: .. Registering AssociationKey : AssociationKey(table=subscriber, columns={id}) -> org.hibernate.loader.plan.build.internal.returns.EntityReturnImpl@56826a75
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingEntityIdentifier
+TRACE: >> Starting entity identifier : Subscriber
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.walking.spi.MetamodelGraphWalker visitAttributeDefinition
+DEBUG: Visiting attribute path : chatId
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingAttribute
+TRACE: >> Starting attribute Attribute(name=chatId, type=long [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingAttribute
+TRACE: << Finishing up attribute : Attribute(name=chatId, type=long [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.walking.spi.MetamodelGraphWalker visitAttributeDefinition
+DEBUG: Visiting attribute path : firstName
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingAttribute
+TRACE: >> Starting attribute Attribute(name=firstName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingAttribute
+TRACE: << Finishing up attribute : Attribute(name=firstName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.walking.spi.MetamodelGraphWalker visitAttributeDefinition
+DEBUG: Visiting attribute path : lastName
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingAttribute
+TRACE: >> Starting attribute Attribute(name=lastName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingAttribute
+TRACE: << Finishing up attribute : Attribute(name=lastName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.walking.spi.MetamodelGraphWalker visitAttributeDefinition
+DEBUG: Visiting attribute path : location
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingAttribute
+TRACE: >> Starting attribute Attribute(name=location, type=org.telegram.telegrambots.meta.api.objects.Location [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingAttribute
+TRACE: << Finishing up attribute : Attribute(name=location, type=org.telegram.telegrambots.meta.api.objects.Location [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.persister.walking.spi.MetamodelGraphWalker visitAttributeDefinition
+DEBUG: Visiting attribute path : userName
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy startingAttribute
+TRACE: >> Starting attribute Attribute(name=userName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingAttribute
+TRACE: << Finishing up attribute : Attribute(name=userName, type=string [non-identifier])
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy popFromStack
+TRACE: Popped fetch owner from stack : org.hibernate.loader.plan.build.internal.returns.EntityReturnImpl@56826a75
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.AbstractLoadPlanBuildingAssociationVisitationStrategy finishingEntity
+TRACE:  Finished root entity : Subscriber
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.internal.FetchStyleLoadPlanBuildingAssociationVisitationStrategy buildLoadPlan
+DEBUG: Building LoadPlan...
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.exec.internal.LoadQueryJoinAndFetchProcessor processQuerySpaceJoins
+DEBUG: processing queryspace <gen:0>
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.plan.build.spi.LoadPlanTreePrinter logTree
+DEBUG: LoadPlan(entity=Subscriber)
+    - Returns
+       - EntityReturnImpl(entity=Subscriber, querySpaceUid=<gen:0>, path=Subscriber)
+    - QuerySpaces
+       - EntityQuerySpaceImpl(uid=<gen:0>, entity=Subscriber)
+          - SQL table alias mapping - subscriber0_
+          - alias suffix - 0_
+          - suffixed key columns - {id1_0_0_}
+
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.entity.plan.EntityLoader <init>
+DEBUG: Static select for entity Subscriber [READ]: select subscriber0_.id as id1_0_0_, subscriber0_.chat_id as chat_id2_0_0_, subscriber0_.first_name as first_na3_0_0_, subscriber0_.last_name as last_nam4_0_0_, subscriber0_.location as location5_0_0_, subscriber0_.username as username6_0_0_ from subscriber subscriber0_ where subscriber0_.id=?
+нояб. 14, 2018 1:33:49 ДП org.hibernate.loader.entity.CascadeEntityLoader <init>
+DEBUG: Static select for action ACTION_MERGE on entity Subscriber: select subscriber0_.id as id1_0_0_, subscriber0_.chat_id as chat_id2_0_0_, subscriber0_.first_name as first_na3_0_0_, subscriber0_.last_name as last_nam4_0_0_, subscriber0_.location as location5_0_0_, subscriber0_.username as username6_0_0_ from subscriber subscriber0_ where subscriber0_.id=?
+нояб. 14, 2018 1:33:50 ДП org.hibernate.loader.entity.CascadeEntityLoader <init>
+DEBUG: Static select for action ACTION_REFRESH on entity Subscriber: select subscriber0_.id as id1_0_0_, subscriber0_.chat_id as chat_id2_0_0_, subscriber0_.first_name as first_na3_0_0_, subscriber0_.last_name as last_nam4_0_0_, subscriber0_.location as location5_0_0_, subscriber0_.username as username6_0_0_ from subscriber subscriber0_ where subscriber0_.id=?
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.MetadataContext wrapUp
+TRACE: Wrapping up metadata context...
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.MetadataContext wrapUp
+TRACE: Starting entity [Subscriber]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory buildIdAttribute
+TRACE: Building identifier attribute [Subscriber.id]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE: Starting attribute metadata determination [id]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined member [private java.lang.Integer Subscriber.id]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined type [name=integer, class=org.hibernate.type.IntegerType]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory buildAttribute
+TRACE: Building attribute [Subscriber.chatId]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE: Starting attribute metadata determination [chatId]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined member [private long Subscriber.chatId]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined type [name=long, class=org.hibernate.type.LongType]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory buildAttribute
+TRACE: Building attribute [Subscriber.firstName]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE: Starting attribute metadata determination [firstName]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined member [private java.lang.String Subscriber.firstName]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined type [name=string, class=org.hibernate.type.StringType]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory buildAttribute
+TRACE: Building attribute [Subscriber.lastName]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE: Starting attribute metadata determination [lastName]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined member [private java.lang.String Subscriber.lastName]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined type [name=string, class=org.hibernate.type.StringType]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory buildAttribute
+TRACE: Building attribute [Subscriber.location]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE: Starting attribute metadata determination [location]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined member [private org.telegram.telegrambots.meta.api.objects.Location Subscriber.location]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined type [name=org.telegram.telegrambots.meta.api.objects.Location, class=org.hibernate.type.SerializableType]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory buildAttribute
+TRACE: Building attribute [Subscriber.userName]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE: Starting attribute metadata determination [userName]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined member [private java.lang.String Subscriber.userName]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.AttributeFactory determineAttributeMetadata
+TRACE:     Determined type [name=string, class=org.hibernate.type.StringType]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.metamodel.internal.MetadataContext wrapUp
+TRACE: Completed entity [Subscriber]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator process
+DEBUG: No actions specified; doing nothing
+нояб. 14, 2018 1:33:50 ДП org.hibernate.query.spi.NamedQueryRepository checkNamedQueries
+DEBUG: Checking 0 named HQL queries
+нояб. 14, 2018 1:33:50 ДП org.hibernate.query.spi.NamedQueryRepository checkNamedQueries
+DEBUG: Checking 0 named SQL queries
+нояб. 14, 2018 1:33:50 ДП org.hibernate.type.spi.TypeConfiguration sessionFactoryCreated
+TRACE: Handling #sessionFactoryCreated from [org.hibernate.internal.SessionFactoryImpl@5e9f73b] for TypeConfiguration
+нояб. 14, 2018 1:33:50 ДП org.hibernate.internal.SessionFactoryRegistry <init>
+DEBUG: Initializing SessionFactoryRegistry : org.hibernate.internal.SessionFactoryRegistry@3cdff901
+нояб. 14, 2018 1:33:50 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.engine.jndi.spi.JndiService]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.internal.SessionFactoryRegistry addSessionFactory
+DEBUG: Registering SessionFactory: 140ec9ff-3f77-4237-97c8-e8c8937d67f4 (<unnamed>)
+нояб. 14, 2018 1:33:50 ДП org.hibernate.internal.SessionFactoryRegistry addSessionFactory
+DEBUG: Not binding SessionFactory to JNDI, no JNDI name configured
+нояб. 14, 2018 1:33:50 ДП org.hibernate.internal.SessionFactoryImpl$SessionBuilderImpl openSession
+TRACE: Opening Hibernate Session.  tenant=null, owner=null
+нояб. 14, 2018 1:33:50 ДП org.hibernate.service.internal.AbstractServiceRegistryImpl initializeService
+TRACE: Initializing service [role=org.hibernate.stat.spi.StatisticsImplementor]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.stat.internal.StatisticsInitiator initiateServiceInternal
+DEBUG: Statistics initialized [enabled=false]
+нояб. 14, 2018 1:33:50 ДП org.hibernate.internal.SessionImpl <init>
+TRACE: Opened Session [50e4a199-c393-4704-9e9c-76e64be3841a] at timestamp: 1542148430064
+нояб. 14, 2018 1:33:50 ДП org.hibernate.engine.transaction.internal.TransactionImpl <init>
+DEBUG: On TransactionImpl creation, JpaCompliance#isJpaTransactionComplianceEnabled == false
+нояб. 14, 2018 1:33:50 ДП org.apache.http.client.protocol.RequestAddCookies process
+FINE: CookieSpec selected: default
+нояб. 14, 2018 1:33:50 ДП org.apache.http.client.protocol.RequestAuthCache process
+FINE: Auth cache not set in the context
+нояб. 14, 2018 1:33:50 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager requestConnection
+FINE: Connection request: [route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 100]
+нояб. 14, 2018 1:33:50 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager leaseConnection
+FINE: Connection leased: [id: 0][route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:50 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Opening connection {s}->https://api.telegram.org:443
+нояб. 14, 2018 1:33:50 ДП org.apache.http.impl.conn.DefaultHttpClientConnectionOperator connect
+FINE: Connecting to api.telegram.org/149.154.167.220:443
+нояб. 14, 2018 1:33:50 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory connectSocket
+FINE: Connecting socket to api.telegram.org/149.154.167.220:443 with timeout 75000
+нояб. 14, 2018 1:33:50 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory createLayeredSocket
+FINE: Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+нояб. 14, 2018 1:33:50 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory createLayeredSocket
+FINE: Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+нояб. 14, 2018 1:33:50 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory createLayeredSocket
+FINE: Starting handshake
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE: Secure session established
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE:  negotiated protocol: TLSv1.2
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE:  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE:  peer principal: CN=api.telegram.org, OU=Domain Control Validated
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE:  peer alternative names: [api.telegram.org, www.api.telegram.org]
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE:  issuer principal: CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, ST=Arizona, C=US
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.DefaultHttpClientConnectionOperator connect
+FINE: Connection established 10.114.70.89:56400<->149.154.167.220:443
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.DefaultManagedHttpClientConnection setSocketTimeout
+FINE: http-outgoing-0: set socket timeout to 75000
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Executing request POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/deleteWebhook HTTP/1.1
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Target auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Proxy auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/deleteWebhook HTTP/1.1
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> charset: UTF-8
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Content-Length: 26
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Content-Type: application/json; charset=UTF-8
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Host: api.telegram.org
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Connection: Keep-Alive
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Accept-Encoding: gzip,deflate
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/deleteWebhook HTTP/1.1[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "charset: UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Content-Length: 26[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Host: api.telegram.org[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "{"method":"deleteWebhook"}"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Server: nginx/1.12.2[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Date: Tue, 13 Nov 2018 22:34:27 GMT[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Content-Type: application/json[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Content-Length: 68[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "{"ok":true,"result":true,"description":"Webhook is already deleted"}"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << HTTP/1.1 200 OK
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Server: nginx/1.12.2
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Date: Tue, 13 Nov 2018 22:34:27 GMT
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Content-Type: application/json
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Content-Length: 68
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Connection: keep-alive
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Allow-Origin: *
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Connection can be kept alive indefinitely
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection [id: 0][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection released: [id: 0][route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:51 ДП org.apache.http.client.protocol.RequestAddCookies process
+FINE: CookieSpec selected: default
+нояб. 14, 2018 1:33:51 ДП org.apache.http.client.protocol.RequestAuthCache process
+FINE: Auth cache not set in the context
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager requestConnection
+FINE: Connection request: [route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 100]
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager leaseConnection
+FINE: Connection leased: [id: 1][route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Opening connection {s}->https://api.telegram.org:443
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.DefaultHttpClientConnectionOperator connect
+FINE: Connecting to api.telegram.org/149.154.167.220:443
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory connectSocket
+FINE: Connecting socket to api.telegram.org/149.154.167.220:443 with timeout 75000
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory createLayeredSocket
+FINE: Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory createLayeredSocket
+FINE: Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory createLayeredSocket
+FINE: Starting handshake
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE: Secure session established
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE:  negotiated protocol: TLSv1.2
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE:  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE:  peer principal: CN=api.telegram.org, OU=Domain Control Validated
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE:  peer alternative names: [api.telegram.org, www.api.telegram.org]
+нояб. 14, 2018 1:33:51 ДП org.apache.http.conn.ssl.SSLConnectionSocketFactory verifyHostname
+FINE:  issuer principal: CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, ST=Arizona, C=US
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.DefaultHttpClientConnectionOperator connect
+FINE: Connection established 10.114.70.89:56404<->149.154.167.220:443
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.DefaultManagedHttpClientConnection setSocketTimeout
+FINE: http-outgoing-1: set socket timeout to 75000
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Executing request POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Target auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Proxy auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> charset: UTF-8
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Content-Length: 59
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Content-Type: application/json; charset=UTF-8
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Host: api.telegram.org
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Connection: Keep-Alive
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Accept-Encoding: gzip,deflate
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "charset: UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Content-Length: 59[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Host: api.telegram.org[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "{"offset":1,"limit":100,"timeout":50,"method":"getupdates"}"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "HTTP/1.1 200 OK[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Server: nginx/1.12.2[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Date: Tue, 13 Nov 2018 22:34:27 GMT[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Content-Type: application/json[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Content-Length: 1039[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Access-Control-Allow-Origin: *[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "[\r][\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "{"ok":true,"result":[{"update_id":327326332,[\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << ""message":{"message_id":277,"from":{"id":355886229,"is_bot":false,"first_name":"Anita","last_name":"Shabunina","language_code":"ru-RU"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148434,"text":"/help","entities":[{"offset":0,"length":5,"type":"bot_command"}]}},{"update_id":327326333,[\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << ""message":{"message_id":278,"from":{"id":355886229,"is_bot":false,"first_name":"Anita","last_name":"Shabunina","language_code":"ru-RU"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148452,"text":"/help","entities":[{"offset":0,"length":5,"type":"bot_command"}]}},{"update_id":327326334,[\n]"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << ""message":{"message_id":279,"from":{"id":355886229,"is_bot":false,"first_name":"Anita","last_name":"Shabunina","language_code":"ru-RU"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148465,"text":"/help","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}"
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << HTTP/1.1 200 OK
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Server: nginx/1.12.2
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Date: Tue, 13 Nov 2018 22:34:27 GMT
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Content-Type: application/json
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Content-Length: 1039
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Connection: keep-alive
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Access-Control-Allow-Origin: *
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+нояб. 14, 2018 1:33:51 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Connection can be kept alive indefinitely
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection [id: 1][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+нояб. 14, 2018 1:33:51 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection released: [id: 1][route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.client.protocol.RequestAddCookies process
+FINE: CookieSpec selected: default
+нояб. 14, 2018 1:33:52 ДП org.apache.http.client.protocol.RequestAuthCache process
+FINE: Auth cache not set in the context
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager requestConnection
+FINE: Connection request: [route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager leaseConnection
+FINE: Connection leased: [id: 1][route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.DefaultManagedHttpClientConnection setSocketTimeout
+FINE: http-outgoing-1: set socket timeout to 75000
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Executing request POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Target auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Proxy auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> charset: UTF-8
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Content-Length: 67
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Content-Type: application/json; charset=UTF-8
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Host: api.telegram.org
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Connection: Keep-Alive
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Accept-Encoding: gzip,deflate
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "charset: UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Content-Length: 67[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Host: api.telegram.org[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "{"offset":327326335,"limit":100,"timeout":50,"method":"getupdates"}"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.client.protocol.RequestAddCookies process
+FINE: CookieSpec selected: default
+нояб. 14, 2018 1:33:52 ДП org.apache.http.client.protocol.RequestAuthCache process
+FINE: Auth cache not set in the context
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager requestConnection
+FINE: Connection request: [route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager leaseConnection
+FINE: Connection leased: [id: 0][route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.DefaultManagedHttpClientConnection setSocketTimeout
+FINE: http-outgoing-0: set socket timeout to 75000
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Executing request POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Target auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Proxy auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> charset: UTF-8
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Content-Length: 977
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Content-Type: application/json; charset=UTF-8
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Host: api.telegram.org
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Connection: Keep-Alive
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Accept-Encoding: gzip,deflate
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "charset: UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Content-Length: 977[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Host: api.telegram.org[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "{"chat_id":"355886229","text":"Available commands: \n/weather - get actual weather\n/sub - subscribe to get daily forecast\n/unsub - unsubscribe\nAlso you can press it on keyboard below.","parse_mode":"Markdown","reply_to_message_id":277,"reply_markup":{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup","keyboard":[[{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/help"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/weather"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/location","request_location":true}],[{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/sub"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/unsub"}]],"resize_keyboard":true},"method":"sendmessage"}"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Server: nginx/1.12.2[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Date: Tue, 13 Nov 2018 22:34:27 GMT[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Content-Type: application/json[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Content-Length: 874[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "{"ok":true,"result":{"message_id":280,"from":{"id":786435269,"is_bot":true,"first_name":"WeatherBot","username":"Ask_WeatherBot"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148467,"reply_to_message":{"message_id":277,"from":{"id":355886229,"is_bot":false,"first_name":"Anita","last_name":"Shabunina","language_code":"ru-RU"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148434,"text":"/help","entities":[{"offset":0,"length":5,"type":"bot_command"}]},"text":"Available commands: \n/weather - get actual weather\n/sub - subscribe to get daily forecast\n/unsub - unsubscribe\nAlso you can press it on keyboard below.","entities":[{"offset":21,"length":8,"type":"bot_command"},{"offset":51,"length":4,"type":"bot_command"},{"offset":90,"length":6,"type":"bot_command"}]}}"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << HTTP/1.1 200 OK
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Server: nginx/1.12.2
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Date: Tue, 13 Nov 2018 22:34:27 GMT
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Content-Type: application/json
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Content-Length: 874
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Connection: keep-alive
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Allow-Origin: *
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Connection can be kept alive indefinitely
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection [id: 0][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection released: [id: 0][route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.client.protocol.RequestAddCookies process
+FINE: CookieSpec selected: default
+нояб. 14, 2018 1:33:52 ДП org.apache.http.client.protocol.RequestAuthCache process
+FINE: Auth cache not set in the context
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager requestConnection
+FINE: Connection request: [route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager leaseConnection
+FINE: Connection leased: [id: 0][route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.DefaultManagedHttpClientConnection setSocketTimeout
+FINE: http-outgoing-0: set socket timeout to 75000
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Executing request POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Target auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Proxy auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> charset: UTF-8
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Content-Length: 977
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Content-Type: application/json; charset=UTF-8
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Host: api.telegram.org
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Connection: Keep-Alive
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Accept-Encoding: gzip,deflate
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "charset: UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Content-Length: 977[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Host: api.telegram.org[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "{"chat_id":"355886229","text":"Available commands: \n/weather - get actual weather\n/sub - subscribe to get daily forecast\n/unsub - unsubscribe\nAlso you can press it on keyboard below.","parse_mode":"Markdown","reply_to_message_id":278,"reply_markup":{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup","keyboard":[[{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/help"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/weather"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/location","request_location":true}],[{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/sub"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/unsub"}]],"resize_keyboard":true},"method":"sendmessage"}"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Server: nginx/1.12.2[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Date: Tue, 13 Nov 2018 22:34:27 GMT[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Content-Type: application/json[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Content-Length: 874[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "{"ok":true,"result":{"message_id":281,"from":{"id":786435269,"is_bot":true,"first_name":"WeatherBot","username":"Ask_WeatherBot"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148467,"reply_to_message":{"message_id":278,"from":{"id":355886229,"is_bot":false,"first_name":"Anita","last_name":"Shabunina","language_code":"ru-RU"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148452,"text":"/help","entities":[{"offset":0,"length":5,"type":"bot_command"}]},"text":"Available commands: \n/weather - get actual weather\n/sub - subscribe to get daily forecast\n/unsub - unsubscribe\nAlso you can press it on keyboard below.","entities":[{"offset":21,"length":8,"type":"bot_command"},{"offset":51,"length":4,"type":"bot_command"},{"offset":90,"length":6,"type":"bot_command"}]}}"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << HTTP/1.1 200 OK
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Server: nginx/1.12.2
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Date: Tue, 13 Nov 2018 22:34:27 GMT
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Content-Type: application/json
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Content-Length: 874
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Connection: keep-alive
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Allow-Origin: *
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Connection can be kept alive indefinitely
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection [id: 0][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection released: [id: 0][route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.client.protocol.RequestAddCookies process
+FINE: CookieSpec selected: default
+нояб. 14, 2018 1:33:52 ДП org.apache.http.client.protocol.RequestAuthCache process
+FINE: Auth cache not set in the context
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager requestConnection
+FINE: Connection request: [route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager leaseConnection
+FINE: Connection leased: [id: 0][route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.DefaultManagedHttpClientConnection setSocketTimeout
+FINE: http-outgoing-0: set socket timeout to 75000
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Executing request POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Target auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Proxy auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> charset: UTF-8
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Content-Length: 977
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Content-Type: application/json; charset=UTF-8
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Host: api.telegram.org
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Connection: Keep-Alive
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Accept-Encoding: gzip,deflate
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "charset: UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Content-Length: 977[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Host: api.telegram.org[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "{"chat_id":"355886229","text":"Available commands: \n/weather - get actual weather\n/sub - subscribe to get daily forecast\n/unsub - unsubscribe\nAlso you can press it on keyboard below.","parse_mode":"Markdown","reply_to_message_id":279,"reply_markup":{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup","keyboard":[[{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/help"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/weather"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/location","request_location":true}],[{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/sub"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/unsub"}]],"resize_keyboard":true},"method":"sendmessage"}"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Server: nginx/1.12.2[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Date: Tue, 13 Nov 2018 22:34:28 GMT[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Content-Type: application/json[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Content-Length: 874[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "[\r][\n]"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "{"ok":true,"result":{"message_id":282,"from":{"id":786435269,"is_bot":true,"first_name":"WeatherBot","username":"Ask_WeatherBot"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148468,"reply_to_message":{"message_id":279,"from":{"id":355886229,"is_bot":false,"first_name":"Anita","last_name":"Shabunina","language_code":"ru-RU"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148465,"text":"/help","entities":[{"offset":0,"length":5,"type":"bot_command"}]},"text":"Available commands: \n/weather - get actual weather\n/sub - subscribe to get daily forecast\n/unsub - unsubscribe\nAlso you can press it on keyboard below.","entities":[{"offset":21,"length":8,"type":"bot_command"},{"offset":51,"length":4,"type":"bot_command"},{"offset":90,"length":6,"type":"bot_command"}]}}"
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << HTTP/1.1 200 OK
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Server: nginx/1.12.2
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Date: Tue, 13 Nov 2018 22:34:28 GMT
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Content-Type: application/json
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Content-Length: 874
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Connection: keep-alive
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Allow-Origin: *
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+нояб. 14, 2018 1:33:52 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Connection can be kept alive indefinitely
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection [id: 0][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+нояб. 14, 2018 1:33:52 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection released: [id: 0][route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "HTTP/1.1 200 OK[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Server: nginx/1.12.2[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Date: Tue, 13 Nov 2018 22:34:32 GMT[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Content-Type: application/json[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Content-Length: 364[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Access-Control-Allow-Origin: *[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "{"ok":true,"result":[{"update_id":327326335,[\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << ""message":{"message_id":283,"from":{"id":355886229,"is_bot":false,"first_name":"Anita","last_name":"Shabunina","language_code":"ru-RU"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148472,"text":"/weather","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << HTTP/1.1 200 OK
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Server: nginx/1.12.2
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Date: Tue, 13 Nov 2018 22:34:32 GMT
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Content-Type: application/json
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Content-Length: 364
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Connection: keep-alive
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Access-Control-Allow-Origin: *
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Connection can be kept alive indefinitely
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection [id: 1][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection released: [id: 1][route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:56 ДП org.apache.http.client.protocol.RequestAddCookies process
+FINE: CookieSpec selected: default
+нояб. 14, 2018 1:33:56 ДП org.apache.http.client.protocol.RequestAuthCache process
+FINE: Auth cache not set in the context
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager requestConnection
+FINE: Connection request: [route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager leaseConnection
+FINE: Connection leased: [id: 1][route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.conn.DefaultManagedHttpClientConnection setSocketTimeout
+FINE: http-outgoing-1: set socket timeout to 75000
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Executing request POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Target auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Proxy auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> charset: UTF-8
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Content-Length: 67
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Content-Type: application/json; charset=UTF-8
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Host: api.telegram.org
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Connection: Keep-Alive
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Accept-Encoding: gzip,deflate
+нояб. 14, 2018 1:33:56 ДП org.apache.http.client.protocol.RequestAddCookies process
+FINE: CookieSpec selected: default
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.client.protocol.RequestAuthCache process
+FINE: Auth cache not set in the context
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "charset: UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Content-Length: 67[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager requestConnection
+FINE: Connection request: [route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Host: api.telegram.org[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "[read] I/O error: Read timed out"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "{"offset":327326336,"limit":100,"timeout":50,"method":"getupdates"}"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager leaseConnection
+FINE: Connection leased: [id: 0][route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.conn.DefaultManagedHttpClientConnection setSocketTimeout
+FINE: http-outgoing-0: set socket timeout to 75000
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Executing request POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Target auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Proxy auth state: UNCHALLENGED
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> charset: UTF-8
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Content-Length: 846
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Content-Type: application/json; charset=UTF-8
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Host: api.telegram.org
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Connection: Keep-Alive
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-0 >> Accept-Encoding: gzip,deflate
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/sendmessage HTTP/1.1[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "charset: UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Content-Length: 846[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Host: api.telegram.org[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 >> "{"chat_id":"355886229","text":"Send your location first","parse_mode":"Markdown","reply_to_message_id":283,"reply_markup":{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup","keyboard":[[{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/help"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/weather"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/location","request_location":true}],[{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/sub"},{"@class":"org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton","text":"/unsub"}]],"resize_keyboard":true},"method":"sendmessage"}"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Server: nginx/1.12.2[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Date: Tue, 13 Nov 2018 22:34:32 GMT[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Content-Type: application/json[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Content-Length: 595[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "[\r][\n]"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.wire wire
+FINE: http-outgoing-0 << "{"ok":true,"result":{"message_id":284,"from":{"id":786435269,"is_bot":true,"first_name":"WeatherBot","username":"Ask_WeatherBot"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148472,"reply_to_message":{"message_id":283,"from":{"id":355886229,"is_bot":false,"first_name":"Anita","last_name":"Shabunina","language_code":"ru-RU"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148472,"text":"/weather","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Send your location first"}}"
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << HTTP/1.1 200 OK
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Server: nginx/1.12.2
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Date: Tue, 13 Nov 2018 22:34:32 GMT
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Content-Type: application/json
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Content-Length: 595
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Connection: keep-alive
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Allow-Origin: *
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+нояб. 14, 2018 1:33:56 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-0 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Connection can be kept alive indefinitely
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection [id: 0][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+нояб. 14, 2018 1:33:56 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection released: [id: 0][route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "HTTP/1.1 200 OK[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Server: nginx/1.12.2[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Date: Tue, 13 Nov 2018 22:34:42 GMT[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Content-Type: application/json[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Content-Length: 344[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Access-Control-Allow-Origin: *[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << "{"ok":true,"result":[{"update_id":327326336,[\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 << ""message":{"message_id":285,"from":{"id":355886229,"is_bot":false,"first_name":"Anita","last_name":"Shabunina","language_code":"ru-RU"},"chat":{"id":355886229,"first_name":"Anita","last_name":"Shabunina","type":"private"},"date":1542148482,"location":{"latitude":59.914374,"longitude":30.351204}}}]}"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << HTTP/1.1 200 OK
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Server: nginx/1.12.2
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Date: Tue, 13 Nov 2018 22:34:42 GMT
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Content-Type: application/json
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Content-Length: 344
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Connection: keep-alive
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Access-Control-Allow-Origin: *
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onResponseReceived
+FINE: http-outgoing-1 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+нояб. 14, 2018 1:34:06 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Connection can be kept alive indefinitely
+нояб. 14, 2018 1:34:06 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection [id: 1][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+нояб. 14, 2018 1:34:06 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager releaseConnection
+FINE: Connection released: [id: 1][route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:34:06 ДП org.apache.http.client.protocol.RequestAddCookies process
+FINE: CookieSpec selected: default
+нояб. 14, 2018 1:34:06 ДП org.apache.http.client.protocol.RequestAuthCache process
+FINE: Auth cache not set in the context
+нояб. 14, 2018 1:34:06 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager requestConnection
+FINE: Connection request: [route: {s}->https://api.telegram.org:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:34:06 ДП org.apache.http.impl.conn.PoolingHttpClientConnectionManager leaseConnection
+FINE: Connection leased: [id: 1][route: {s}->https://api.telegram.org:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+нояб. 14, 2018 1:34:06 ДП org.apache.http.impl.conn.DefaultManagedHttpClientConnection setSocketTimeout
+FINE: http-outgoing-1: set socket timeout to 75000
+нояб. 14, 2018 1:34:06 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Executing request POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1
+нояб. 14, 2018 1:34:06 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Target auth state: UNCHALLENGED
+нояб. 14, 2018 1:34:06 ДП org.apache.http.impl.execchain.MainClientExec execute
+FINE: Proxy auth state: UNCHALLENGED
+нояб. 14, 2018 1:34:06 ДП org.telegram.telegrambots.meta.logging.BotLogger severe
+SEVERE: BOTSESSION
+java.lang.NullPointerException
+	at WeatherBot.onUpdateReceived(WeatherBot.java:24)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:305)
+
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> charset: UTF-8
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Content-Length: 67
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Content-Type: application/json; charset=UTF-8
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Host: api.telegram.org
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Connection: Keep-Alive
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)
+нояб. 14, 2018 1:34:06 ДП org.apache.http.headers onRequestSubmitted
+FINE: http-outgoing-1 >> Accept-Encoding: gzip,deflate
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "POST /bot786435269:AAHHZxOogIHgSohWeDYU9fb0oOiUOZ3p6GE/getupdates HTTP/1.1[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "charset: UTF-8[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Content-Length: 67[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Host: api.telegram.org[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/10.0.1)[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "[\r][\n]"
+нояб. 14, 2018 1:34:06 ДП org.apache.http.wire wire
+FINE: http-outgoing-1 >> "{"offset":327326337,"limit":100,"timeout":50,"method":"getupdates"}"
+нояб. 14, 2018 1:34:16 ДП org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections validate
+DEBUG: Connection pool now considered primed; min-size will be maintained
